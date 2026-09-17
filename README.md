@@ -1,4 +1,4 @@
-## Project Title: GitHub Setup
+## Project Title: C Compiler Setup
 
 ## Description: Create a GitHub repo
 
